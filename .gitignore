@@ -1,0 +1,14 @@
+model_ckpt
+notebook
+*.pdf
+*.npy
+*.pkl
+*.feather
+*.pickle
+*.joblib
+*.csv
+*.json
+*.jsonl
+*.ipynb
+.ipynb_checkpoints
+__pycache__/
